@@ -1,6 +1,12 @@
 # SmolVLM-500M-Instruct + llama.cpp (Multimodal Inference)
 
+> Note: This document was created with reference to [HuggingFace SmolVLM-500M-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct/tree/main) and [SmolVLM Realtime Webcam](https://github.com/ngxson/smolvlm-realtime-webcam).
+
 This repository demonstrates how to run the [SmolVLM-500M-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-500M-Instruct) vision-language model using [llama.cpp](https://github.com/ggerganov/llama.cpp) with image input.
+
+https://huggingface.co/.../SmolVLM-500M.../tree/main
+
+https://github.com/ngxson/smolvlm-realtime-webcam
 
 ---
 
